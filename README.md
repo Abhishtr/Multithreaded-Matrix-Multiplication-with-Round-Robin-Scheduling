@@ -1,6 +1,6 @@
 ## Multithreaded Matrix Multiplication using Round Robin Scheduler
 
-We implemented matrix multiplication using multithreading and scheduled those threads using Round Robin Scheduler with multiple time quanta's. We analyzed how the program's completion time varies with the number of threads for a specific time quanta.
+We implemented matrix multiplication using multithreading and scheduled those processes using Round Robin Scheduler with multiple time quanta's. We analyzed how the program's completion time varies with the number of threads for a specific time quanta.
 
 ### Brief Description
 
